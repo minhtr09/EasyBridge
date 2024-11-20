@@ -1,0 +1,27 @@
+[[dependencies]]
+name = "@chainlink-local"
+version = "0.2.2"
+url = "https://github.com/smartcontractkit/chainlink-local/archive/refs/tags/v0.2.2.zip"
+checksum = "e6fdb221d82f98cb729ac9624241a8d261bc9d87d011b5efc4421e30ccf6cbd7"
+integrity = "ab498bdbc7e6557f2e49942c32a40059220a7722eb4292605db143220a54a2cb"
+
+[[dependencies]]
+name = "@fdk"
+version = "0.3.0-beta"
+url = "https://github.com/axieinfinity/foundry-deployment-kit/archive/refs/tags/v0.3.0-beta.zip"
+checksum = "aabeda6cc1fe02227d26f3edd86d4af6c91e2167e8b9f1971cc1ea7ce33d34f9"
+integrity = "436f06791b10ed0ce2363d3dde8e520e79376df1b81b00f0787670ad03941661"
+
+[[dependencies]]
+name = "@openzeppelin"
+version = "4.7.3"
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts/archive/refs/tags/v4.7.3.zip"
+checksum = "e25b51f352864703de7b35e5030d63b38cbe4e8d61d7858f9ff9f77e18e370dd"
+integrity = "2634c0a7cd5244851a0887723077e8d591881d4794852ab26e5496423b260ff8"
+
+[[dependencies]]
+name = "@prb-test"
+version = "0.6.4"
+url = "https://soldeer-revisions.s3.amazonaws.com/@prb-test/0_6_4_22-01-2024_13:22:10_test.zip"
+checksum = "35fc7fd91e79985c87869e00a9bdb863643c76e2c1d777c161486e4b0086107a"
+integrity = "551f30d6ae2dc7a924e8c66a93c6240c8d183936c07d7444a950c4a134d3f63a"

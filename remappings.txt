@@ -1,0 +1,7 @@
+@chainlink-local/=dependencies/@chainlink-local-0.2.2/
+@fdk=dependencies/@fdk-0.3.0-beta/script
+@openzeppelin/=dependencies/@openzeppelin-4.7.3/
+@prb-test-0.6.4=dependencies/@prb-test-0.6.4
+@chainlink/contracts-ccip/=node_modules/@chainlink/contracts-ccip/
+forge-std/=dependencies/@fdk-0.3.0-beta/dependencies/forge-std-1.8.2/src/
+@contracts/=src/
